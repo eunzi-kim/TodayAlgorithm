@@ -20,3 +20,4 @@
 | 7/12 (화) |                     Intermediate - List1                     |       Python       |
 | 7/13 (수) |                     Intermediate - List2                     |       Python       |
 | 7/14 (목) |                     Intermediate - String                    |       Python       |
+| 7/15 (금) |                     Intermediate - Stack1                    |       Python       |

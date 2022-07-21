@@ -23,3 +23,4 @@
 | 7/15 (금) |                     Intermediate - Stack1                    |       Python       |
 | 7/18 (월) |                     Intermediate - Stack2                    |       Python       |
 | 7/20 (수) |                     Intermediate - Queue                     |       Python       |
+| 7/21 (목) |                   Intermediate - Linked List                 |       Python       |

@@ -27,3 +27,4 @@
 | 7/24 (일) |           Intermediate - Tree / Advanced - 시작하기          |       Python       |
 | 7/26 (화) |              Advanced - 완전검색 / 탐욕 알고리즘             |       Python       |
 | 7/27 (수) |                      Advanced - 분할정복                     |       Python       |
+| 7/28 (목) |                      Advanced - 백트래킹                     |       Python       |

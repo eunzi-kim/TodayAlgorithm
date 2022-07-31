@@ -8,6 +8,12 @@
 
   https://swexpertacademy.com/main/learn/course/courseList.do
 
+## 📌 2차 목표
+
+- 프로그래머스 풀기
+
+  https://school.programmers.co.kr/learn/challenges
+
 ## 📅 알고리즘 기록
 
 ### ❤ SWEA
@@ -26,3 +32,9 @@
 | 7/27 (수) |            Advanced - 분할정복            | Python |
 | 7/28 (목) |            Advanced - 백트래킹            | Python |
 | 7/30 (토) |      Advanced - 그래프의 기본과 탐색      | Python |
+
+### 🧡 프로그래머스
+
+|   날짜    | 알고리즘 문제  |    언어    |
+| :-------: | :------------: | :--------: |
+| 7/31 (일) | LV1 - 스킬체크 | JavaScript |
